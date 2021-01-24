@@ -4,6 +4,7 @@ C:/Games/İlk Oyunum/2D Oyun.exe
 SceneListBegin?
 Assets/Scenes/Tutorial.unity
 Assets/Scenes/Level 1.unity
+Assets/Scenes/Level 2.unity
 SceneListEnd?
 3c08375166df118bd1801438fc36b92f Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 77c21079ace8d76ce6e941d3dabbfe6e Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -114,10 +115,11 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 9b895dcabbc1faf095c000c32d471fd0 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.SawRotate
 b8a5e8091ab0b8861d2add371082c5e0 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
 ac90c49c9c5cc9de6135b5cf59db275e Assembly-CSharp.dll:.CameraFollow
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
-be14558f495558bd14465619b6b554af Assembly-CSharp.dll:.walk
+2d544c9a6dcb739b6a61e5e5a6677b3c Assembly-CSharp.dll:.walk
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
 fb7f5bf3e96927da1750453b1f57edec Assembly-CSharp.dll:.Announcer
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
